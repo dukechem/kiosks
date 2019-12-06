@@ -1,1 +1,2 @@
+kiosk_config=https://raw.githubusercontent.com/kiosks/master/type0302.txt
 
