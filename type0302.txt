@@ -1,2 +1,2 @@
-kiosk_config=https://raw.githubusercontent.com/kiosks/master/type0302.txt
+kiosk_config=https://raw.githubusercontent.com/dukechem/kiosks/master/type0302.txt
 
